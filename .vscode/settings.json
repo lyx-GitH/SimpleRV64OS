@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "printk.h": "c",
+        "sbi.h": "c",
+        "clock.h": "c",
+        "string.h": "c",
+        "types.h": "c",
+        "defs.h": "c",
+        "__bit_reference": "c",
+        "__string": "c",
+        "cstring": "c",
+        "mm.h": "c",
+        "proc.h": "c",
+        "vm.h": "c",
+        "rand.h": "c",
+        "__config": "c",
+        "__threading_support": "c",
+        "memory": "c",
+        "thread": "c",
+        "version": "c",
+        "*.tcc": "c",
+        "mutex": "c",
+        "stop_token": "c",
+        "trap.h": "c",
+        "syscall.h": "c",
+        "binutils.h": "c",
+        "vma.h": "c"
+    },
+    "editor.fontLigatures": true
+}
